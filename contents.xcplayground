@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' requires-full-environment='true'>
+    <pages>
+        <page name='Basic Text View'/>
+        <page name='Basic TextKit Text View'/>
+        <page name='MultiColumn Text Views'/>
+        <page name='Multi Layout Text Views'/>
+        <page name='Curvy Text View'/>
+    </pages>
+</playground>
